@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @skmusaroof61
-- 👀 I’m interested in to gain knowledge.
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in 🕸 web development 
+- 🌱 I’m currently learning react js
+- 🎓 i'm currently pursuing my masters degree in computer science 
 
 <!---
 skmusaroof61/skmusaroof61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
